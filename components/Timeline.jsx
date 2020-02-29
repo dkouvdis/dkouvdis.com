@@ -1,8 +1,8 @@
-import React, { Fragment } from 'react'
+import React from 'react'
 
 import Grid from './Grid'
 
-import careers from './career'
+import careers from '../data/career'
 
 const Career = ({ career }) => (
   <li className="mt-6">
@@ -12,25 +12,23 @@ const Career = ({ career }) => (
       ) : null}
 
       {career?.date ? (
-        <Fragment>
-          <p className="text-sm mb-1">
-            <img
-              className="w-5 h-5 mr-1 inline-block"
-              src="/icons/calendar.svg"
-              alt="location"
-            />
-            {career.date[0]}
-            {career?.date[1] ? ` - ${career?.date[1]}` : null}
-          </p>
-        </Fragment>
+        <p className="text-sm mb-1">
+          <img
+            className="w-5 h-5 mr-1 inline-block"
+            src="/images/icons/calendar.svg"
+            alt="Date worked at"
+          />
+          {career.date[0]}
+          {career?.date[1] ? ` - ${career?.date[1]}` : null}
+        </p>
       ) : null}
 
       {career.location ? (
         <p className="text-sm mb-1">
           <img
             className="w-5 h-5 mr-1 inline-block"
-            src="/icons/location.svg"
-            alt="location"
+            src="/images//icons/location.svg"
+            alt="Location worked at"
           />
           {career.location}
         </p>

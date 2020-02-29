@@ -13,6 +13,7 @@ const Contact = () => (
           role="link"
           id={link.label}
           target="_blank"
+          rel="noreferrer"
           key={index}
           href={link.link}
         >

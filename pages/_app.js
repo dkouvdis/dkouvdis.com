@@ -9,7 +9,7 @@ class MyApp extends App {
     return (
       <React.Fragment>
         <Head>
-          <title>Dimitri</title>
+          <title>Dimitri Kouvdis - Front-end | Full-stack Developer</title>
           <link rel="icon" href="/favicon.ico" />
         </Head>
 
