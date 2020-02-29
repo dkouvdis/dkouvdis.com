@@ -1,0 +1,22 @@
+[
+  {
+    "label": "Email",
+    "link": "mailto:dimitri@metaplatforms.com"
+  },
+  {
+    "label": "CV",
+    "link": "//gitprint.com/dkouvdis/cv/master/cv.md"
+  },
+  {
+    "label": "Linkedin",
+    "link": "//uk.linkedin.com/in/dkouvdis"
+  },
+  {
+    "label": "Github",
+    "link": "//github.com/dkouvdis"
+  },
+  {
+    "label": "Twitter",
+    "link": "//twitter.com/dkouvdis"
+  }
+]
