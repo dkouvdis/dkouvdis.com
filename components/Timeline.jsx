@@ -27,7 +27,7 @@ const Career = ({ career }) => (
         <p className="text-sm mb-1">
           <img
             className="w-5 h-5 mr-1 inline-block"
-            src="/images//icons/location.svg"
+            src="/images/icons/location.svg"
             alt="Location worked at"
           />
           {career.location}

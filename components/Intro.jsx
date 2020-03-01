@@ -27,7 +27,7 @@ export const IntroLong = () => (
   <Grid title="In Brief">
     <article>
       <p className="mb-2">
-        I'm Dimitri, a developer passion­ate about people, places, food and
+        I'm Dimitri, a developer passionate about people, places, food and
         culture.
       </p>
       <p>
