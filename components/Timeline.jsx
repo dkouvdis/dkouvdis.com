@@ -6,33 +6,41 @@ import careers from '../data/career'
 
 const Career = ({ career }) => (
   <li className="mt-6">
-    <div className="pl-4">
-      {career.company ? (
-        <p className="text-2xl pb-2 leading-none">{career.company}</p>
-      ) : null}
+    <div className="pl-4 flex items-center">
+      <img
+        className="w-16 h-12 mr-4"
+        src={`/images/companies/${career.name}.svg`}
+        alt=""
+      />
 
-      {career?.date ? (
-        <p className="text-sm mb-1">
-          <img
-            className="w-5 h-5 mr-1 inline-block"
-            src="/images/icons/calendar.svg"
-            alt="Date worked at"
-          />
-          {career.date[0]}
-          {career?.date[1] ? ` - ${career?.date[1]}` : null}
-        </p>
-      ) : null}
+      <div>
+        {career.company ? (
+          <p className="text-2xl pb-2 leading-none">{career.company}</p>
+        ) : null}
 
-      {career.location ? (
-        <p className="text-sm mb-1">
-          <img
-            className="w-5 h-5 mr-1 inline-block"
-            src="/images/icons/location.svg"
-            alt="Location worked at"
-          />
-          {career.location}
-        </p>
-      ) : null}
+        {career?.date ? (
+          <p className="text-sm mb-1">
+            <img
+              className="w-5 h-5 mr-1 inline-block"
+              src="/images/icons/calendar.svg"
+              alt="Date worked at"
+            />
+            {career.date[0]}
+            {career?.date[1] ? ` - ${career?.date[1]}` : null}
+          </p>
+        ) : null}
+
+        {career.location ? (
+          <p className="text-sm mb-1">
+            <img
+              className="w-5 h-5 mr-1 inline-block"
+              src="/images/icons/location.svg"
+              alt="Location worked at"
+            />
+            {career.location}
+          </p>
+        ) : null}
+      </div>
     </div>
 
     {career.outsourced ? (

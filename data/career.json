@@ -8,6 +8,7 @@
     "outsourced": [
       {
         "company": "John Lewis",
+        "name": "john-lewis",
         "location": "London",
         "image": "",
         "website": "//johnlewis.com/upholstery-beta",
@@ -15,6 +16,7 @@
       },
       {
         "company": "O2",
+        "name": "o2",
         "location": "London",
         "image": "",
         "website": "//johnlewis.com/upholstery-beta",
@@ -22,6 +24,7 @@
       },
       {
         "company": "Klarna",
+        "name": "klarna",
         "location": "Tel Aviv / Berlin / Stockholm",
         "image": "",
         "website": "//johnlewis.com/upholstery-beta",
@@ -29,29 +32,17 @@
       },
       {
         "company": "HM Revenue & Customs",
+        "name": "hmrc",
         "location": "London",
         "image": "",
         "website": "//johnlewis.com/upholstery-beta",
         "date": ["2018/01"]
-      },
-      {
-        "company": "Camelot Lottery Solutions",
-        "location": "Athens / London",
-        "image": "",
-        "website": "//johnlewis.com/upholstery-beta",
-        "date": ["2017"]
-      },
-      {
-        "company": "Rightmove",
-        "location": "London",
-        "image": "",
-        "website": "//johnlewis.com/upholstery-beta",
-        "date": ["2016/12"]
       }
     ]
   },
   {
     "company": "Vice Media",
+    "name": "vice",
     "location": "London",
     "image": "",
     "website": "//johnlewis.com/upholstery-beta",
@@ -59,6 +50,7 @@
   },
   {
     "company": "BT",
+    "name": "bt",
     "location": "London",
     "image": "",
     "website": "//johnlewis.com/upholstery-beta",
@@ -66,6 +58,7 @@
     "outsourced": [
       {
         "company": "SapientNitro",
+        "name": "sapient",
         "location": "London",
         "image": "",
         "website": "//johnlewis.com/upholstery-beta",
@@ -75,6 +68,7 @@
   },
   {
     "company": "Flow Communications",
+    "name": "flow",
     "location": "Johannesburg - South Africa",
     "image": "",
     "website": "//johnlewis.com/upholstery-beta",
