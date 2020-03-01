@@ -8,7 +8,7 @@ const Career = ({ career }) => (
   <li className="mt-6">
     <div className="pl-4 flex items-center">
       <img
-        className="w-16 h-12 mr-4"
+        className="w-16 mr-4 my-2"
         src={`/images/companies/${career.name}.svg`}
         alt=""
       />
