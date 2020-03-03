@@ -11,7 +11,6 @@ const Contact = () => (
         <a
           className="mr-4"
           role="link"
-          id={link.label}
           target="_blank"
           rel="noreferrer"
           key={index}

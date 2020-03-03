@@ -58,20 +58,14 @@ const Timeline = () => (
     <p className="text-xs">
       Below is a summarised version of my work experience. For more detail,
       check my{' '}
-      <button
-        onClick={() => {
-          const el = document.querySelector('#CV')
-          el.focus()
-          el.classList.add('outline')
-
-          setTimeout(() => {
-            el.classList.remove('outline')
-          }, 1200)
-        }}
+      <a
+        href="//github.com/dkouvdis/cv/raw/master/dimitri_kouvdis_cv.pdf"
         className="border-b border-blue-400"
+        target="_blank"
+        rel="noreferrer"
       >
         CV
-      </button>
+      </a>
       .
     </p>
 

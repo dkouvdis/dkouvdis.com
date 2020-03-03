@@ -10,7 +10,3 @@ body {
 }
 /* purgecss end ignore */
 
-.outline {
-  outline: none;
-  @apply shadow-outline;
-}
