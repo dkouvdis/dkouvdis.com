@@ -59,7 +59,7 @@ const Timeline = () => (
       Below is a summarised version of my work experience. For more detail,
       check my{' '}
       <a
-        href="//github.com/dkouvdis/cv/raw/master/dimitri_kouvdis_cv.pdf"
+        href="//dkouvdis.github.io/cv/docs/dimitri_kouvdis_cv.pdf"
         className="border-b border-blue-400"
         target="_blank"
         rel="noreferrer"
