@@ -6,14 +6,12 @@ import ReactGA from 'react-ga'
 
 import '../css/tailwind.css'
 
-export const initGA = () => {
-  ReactGA.initialize('UA-18289978-9')
-}
-
 class MyApp extends App {
   componentDidMount() {
     if (!window.GA_INITIALIZED) {
       initGA()
+      ReactGA.initialize('UA-18289978-9')
+      ReactGA.pageview(window.location.pathname)
       window.GA_INITIALIZED = true
     }
   }
