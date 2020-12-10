@@ -3,16 +3,24 @@
     "company": "Equal Experts",
     "name": "equal-experts",
     "image": "",
-    "website": "//johnlewis.com/upholstery-beta",
+    "website": "//www.equalexperts.com/",
     "date": ["2016", "Present"],
     "outsourced": [
+      {
+        "company": "Caterpillar",
+        "name": "cat",
+        "location": "Remote",
+        "image": "",
+        "website": "//www.caterpillar.com/",
+        "date": ["2020/09", "Present"]
+      },
       {
         "company": "John Lewis",
         "name": "john-lewis",
         "location": "London",
         "image": "",
         "website": "//johnlewis.com/upholstery-beta",
-        "date": ["2019", "Present"]
+        "date": ["2019", "2020/08"]
       },
       {
         "company": "O2",
