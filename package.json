@@ -1,8 +1,8 @@
 {
   "name": "dkouvdis.com",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "engines": {
-    "node": "12.18.3"
+    "node": "14.15.4"
   },
   "private": true,
   "scripts": {
@@ -15,7 +15,7 @@
   "dependencies": {
     "@fullhuman/postcss-purgecss": "^2.0.6",
     "autoprefixer": "^9.7.4",
-    "next": "9.2.1",
+    "next": "^10.0.2",
     "postcss-import": "^12.0.1",
     "prettier": "^1.19.1",
     "react": "16.12.0",

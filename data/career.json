@@ -7,12 +7,20 @@
     "date": ["2016", "Present"],
     "outsourced": [
       {
+        "company": "Pret a Manger",
+        "name": "pret",
+        "location": "Remote",
+        "image": "",
+        "website": "//www.pret.com/",
+        "date": ["2020/12", "present"]
+      },
+      {
         "company": "Caterpillar",
         "name": "cat",
         "location": "Remote",
         "image": "",
         "website": "//www.caterpillar.com/",
-        "date": ["2020/09", "Present"]
+        "date": ["2020/09", "2020/12"]
       },
       {
         "company": "John Lewis",
