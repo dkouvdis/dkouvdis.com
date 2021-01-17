@@ -1,0 +1,14 @@
+webpackHotUpdate_N_E("pages/index",{
+
+/***/ "./data/career.json":
+/*!**************************!*\
+  !*** ./data/career.json ***!
+  \**************************/
+/*! exports provided: 0, 1, 2, 3, default */
+/***/ (function(module) {
+
+eval("module.exports = JSON.parse(\"[{\\\"company\\\":\\\"Equal Experts\\\",\\\"name\\\":\\\"equal-experts\\\",\\\"image\\\":\\\"\\\",\\\"website\\\":\\\"//www.equalexperts.com/\\\",\\\"date\\\":[\\\"2016\\\",\\\"Present\\\"],\\\"outsourced\\\":[{\\\"company\\\":\\\"Caterpillar\\\",\\\"name\\\":\\\"cat\\\",\\\"location\\\":\\\"Remote\\\",\\\"image\\\":\\\"\\\",\\\"website\\\":\\\"//www.caterpillar.com/\\\",\\\"date\\\":[\\\"2020/09\\\",\\\"2020/12\\\"]},{\\\"company\\\":\\\"John Lewis\\\",\\\"name\\\":\\\"john-lewis\\\",\\\"location\\\":\\\"London\\\",\\\"image\\\":\\\"\\\",\\\"website\\\":\\\"//johnlewis.com/upholstery-beta\\\",\\\"date\\\":[\\\"2019\\\",\\\"2020/08\\\"]},{\\\"company\\\":\\\"O2\\\",\\\"name\\\":\\\"o2\\\",\\\"location\\\":\\\"London\\\",\\\"image\\\":\\\"\\\",\\\"website\\\":\\\"//johnlewis.com/upholstery-beta\\\",\\\"date\\\":[\\\"2018/12\\\"]},{\\\"company\\\":\\\"Klarna\\\",\\\"name\\\":\\\"klarna\\\",\\\"location\\\":\\\"Tel Aviv / Berlin / Stockholm\\\",\\\"image\\\":\\\"\\\",\\\"website\\\":\\\"//johnlewis.com/upholstery-beta\\\",\\\"date\\\":[\\\"2018/02\\\",\\\"2018/11\\\"]},{\\\"company\\\":\\\"HM Revenue & Customs\\\",\\\"name\\\":\\\"hmrc\\\",\\\"location\\\":\\\"London\\\",\\\"image\\\":\\\"\\\",\\\"website\\\":\\\"//johnlewis.com/upholstery-beta\\\",\\\"date\\\":[\\\"2018/01\\\"]}]},{\\\"company\\\":\\\"Vice Media\\\",\\\"name\\\":\\\"vice\\\",\\\"location\\\":\\\"London\\\",\\\"image\\\":\\\"\\\",\\\"website\\\":\\\"//johnlewis.com/upholstery-beta\\\",\\\"date\\\":[\\\"2016\\\",\\\"2016\\\"]},{\\\"company\\\":\\\"BT\\\",\\\"name\\\":\\\"bt\\\",\\\"location\\\":\\\"London\\\",\\\"image\\\":\\\"\\\",\\\"website\\\":\\\"//johnlewis.com/upholstery-beta\\\",\\\"date\\\":[\\\"2012\\\",\\\"2014\\\"],\\\"outsourced\\\":[{\\\"company\\\":\\\"Publicis Sapient\\\",\\\"name\\\":\\\"sapient\\\",\\\"location\\\":\\\"London\\\",\\\"image\\\":\\\"\\\",\\\"website\\\":\\\"//johnlewis.com/upholstery-beta\\\",\\\"date\\\":[\\\"2014\\\",\\\"2014\\\"]}]},{\\\"company\\\":\\\"Flow Communications\\\",\\\"name\\\":\\\"flow\\\",\\\"location\\\":\\\"Johannesburg - South Africa\\\",\\\"image\\\":\\\"\\\",\\\"website\\\":\\\"//johnlewis.com/upholstery-beta\\\",\\\"date\\\":[\\\"2010\\\",\\\"2012\\\"]}]\");//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiIuL2RhdGEvY2FyZWVyLmpzb24uanMiLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./data/career.json\n");
+
+/***/ })
+
+})
